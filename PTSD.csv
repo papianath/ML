@@ -1,0 +1,182 @@
+age,gender,education,household_income,employment,marital_status,current_location,living_in_highly_affected_areas,knowing_infected_people,close_contact_with_infected_person,covid_infected,hospitalized,isolated,working_outside_home,fear_of_being_infected_or_infecting_loved_ones,family_or_friends_death,chronic_illness,previous_psychiatric_history,Intrusive Recollect,Distressing Dreams,Flashbacks,Upset by Reminders,Physical Reaction to Reminders,Avoid Thoughts,Avoid Reminders,Psychogenic Amnesia,Anhedonia,Estrangement from Others,Psychic Numbing,Foreshortened Future,Sleep Difficulty,Irritability/Anger,Concentration Imparied,Hypervigilant,Exaggerated Startle,Score,PTSD_Risk
+24-30,Male,Graduate,more than 50000,Unemployed,Single,Sylhet,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,1,1,1,2,2,1,1,1,1,3,3,1,3,1,1,1,1,25,No
+24-30,Female,Graduate,less than 20000,Unemployed,Single,Chattogram,No,No,No,No,No,No,Yes,Yes,No,No,No,5,4,5,5,2,3,3,3,5,5,5,5,5,5,5,5,5,75,Yes
+18-23,Female,Graduate,20000-34999,Student,Single,Chattogram,No,No,No,No,No,No,No,No,No,No,No,1,1,1,2,2,3,2,1,1,2,1,2,1,1,2,1,1,25,No
+24-30,Female,Graduate,less than 20000,Student,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,No,No,No,1,1,1,3,3,3,3,1,1,1,1,1,1,1,1,3,1,27,No
+18-23,Male,Post-graduate,35000-50000,Unemployed,Single,Chattogram,No,No,Suspected,No,No,No,Yes,Yes,Yes,No,No,2,3,2,3,3,2,4,3,2,3,2,4,2,4,3,2,4,48,Yes
+24-30,Male,Graduate,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,Yes,No,No,No,No,1,2,1,2,1,2,2,2,2,3,1,2,2,2,3,1,2,31,No
+24-30,Female,Graduate,35000-50000,Govt.,Single,Chattogram,No,Yes,Yes,Suspected,No,Yes,No,Yes,No,No,No,4,3,3,4,3,3,2,2,3,3,3,3,3,4,4,3,3,53,Yes
+24-30,Male,S.S.C,less than 20000,Business,Single,Dhaka,No,No,No,No,No,Yes,Yes,Yes,No,No,No,2,2,2,2,2,2,2,1,3,5,4,2,3,1,3,2,1,39,No
+24-30,Male,Graduate,20000-34999,Govt.,Married,Chattogram,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,1,1,1,1,1,4,3,1,1,1,5,1,1,1,1,2,1,27,No
+24-30,Male,Graduate,more than 50000,Private,Single,Khulna,No,Yes,Yes,No,No,No,No,Yes,No,No,No,3,2,2,2,2,3,3,2,2,2,2,1,3,3,3,2,2,39,No
+24-30,Male,Post-graduate,less than 20000,Private,Married,Dhaka,No,No,No,No,No,No,No,No,No,No,No,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,35,No
+24-30,Female,Graduate,less than 20000,Student,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,Yes,No,No,2,1,2,3,2,1,1,1,1,1,3,1,1,1,1,1,1,24,No
+24-30,Male,H.S.C,less than 20000,Unemployed,Single,Chattogram,No,Suspected,No,No,No,No,No,Yes,No,No,Yes,1,5,5,1,5,1,1,1,1,1,5,5,5,5,5,1,5,53,Yes
+18-23,Male,H.S.C,less than 20000,Unemployed,Single,Chattogram,No,Yes,No,No,No,No,Yes,No,No,No,No,2,2,2,3,1,3,3,2,2,1,2,2,2,2,2,2,1,34,No
+24-30,Male,Graduate,less than 20000,Unemployed,Single,Chattogram,No,No,No,No,No,Yes,No,Yes,No,No,No,2,3,2,2,1,2,4,3,3,1,3,2,2,1,2,2,1,36,No
+24-30,Male,Graduate,35000-50000,Student,Single,Chattogram,No,No,No,No,No,No,Yes,Yes,No,No,No,1,1,1,3,1,3,1,1,1,1,1,1,1,3,3,1,3,27,No
+18-23,Male,Graduate,35000-50000,Student,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,No,No,Yes,4,4,3,3,4,3,3,3,2,4,1,4,3,2,2,2,2,49,Yes
+18-23,Male,Graduate,20000-34999,Student,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,No,No,No,1,1,2,1,1,2,1,2,1,1,1,1,1,1,1,1,1,20,No
+18-23,Male,Graduate,20000-34999,Student,Single,Chattogram,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,4,3,4,5,3,3,4,1,4,1,4,3,5,4,5,5,4,62,Yes
+18-23,Male,H.S.C,35000-50000,Govt.,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,No,No,No,2,2,1,2,1,2,2,1,2,3,2,2,2,3,2,2,1,32,No
+18-23,Male,Graduate,35000-50000,Govt.,Single,Chattogram,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,1,2,1,3,4,2,3,2,2,3,2,3,2,4,3,2,3,42,No
+more than 30,Male,Graduate,less than 20000,Private,Single,Chattogram,No,No,No,No,No,No,Yes,Yes,No,No,No,3,3,2,2,1,1,1,1,1,1,1,2,5,4,3,3,1,35,No
+24-30,Female,Graduate,less than 20000,Private,Single,Chattogram,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,2,2,2,5,5,3,4,3,3,4,1,4,2,4,3,3,4,54,Yes
+18-23,Male,H.S.C,less than 20000,Student,Single,Dhaka,No,No,No,No,No,No,No,No,No,No,No,2,2,2,2,2,2,2,3,2,2,3,2,3,4,5,3,3,44,Yes
+24-30,Male,Graduate,more than 50000,Student,Single,Sylhet,Yes,Yes,No,No,No,No,No,Yes,No,No,No,2,2,4,4,5,4,4,5,5,5,5,5,4,4,5,2,1,66,Yes
+24-30,Female,Graduate,less than 20000,Student,Single,Chattogram,No,Yes,No,No,No,No,Yes,Yes,No,No,No,5,2,3,4,3,3,3,2,4,4,4,4,2,4,4,2,4,57,Yes
+18-23,Male,S.S.C,less than 20000,Student,Single,Chattogram,Yes,Yes,No,No,No,No,No,No,No,No,No,3,2,2,4,4,3,2,3,2,3,4,3,1,1,1,1,1,40,No
+24-30,Male,Graduate,less than 20000,Unemployed,Single,Chattogram,No,Suspected,Suspected,No,No,No,Yes,Yes,No,No,No,5,4,5,5,5,5,4,4,4,3,3,3,3,3,3,3,3,65,Yes
+24-30,Male,Post-graduate,20000-34999,Private,Single,Dhaka,No,Yes,No,No,No,No,Yes,Yes,No,No,No,1,2,1,3,1,3,2,4,2,4,4,2,4,4,4,2,3,46,Yes
+18-23,Female,Graduate,20000-34999,Student,Single,Dhaka,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,3,4,4,4,5,4,3,3,5,5,5,5,5,5,5,3,3,71,Yes
+24-30,Male,Post-graduate,less than 20000,Private,Single,Chattogram,No,Yes,No,No,No,No,Yes,No,No,No,No,2,2,5,5,3,1,2,1,1,5,3,4,5,2,4,5,1,51,Yes
+18-23,Male,Graduate,35000-50000,Student,Single,Chattogram,No,Suspected,Suspected,No,No,No,Yes,Yes,No,No,No,1,2,2,3,2,2,4,3,4,4,3,3,2,3,4,3,4,49,Yes
+18-23,Male,Graduate,20000-34999,Student,Single,Chattogram,No,Suspected,Suspected,No,No,No,Yes,Yes,Yes,No,No,3,2,3,3,2,4,3,3,3,5,4,4,4,3,3,3,2,54,Yes
+24-30,Male,Post-graduate,20000-34999,Private,Married,Chattogram,No,No,Suspected,No,No,No,Yes,Yes,Yes,No,Yes,2,3,2,3,4,2,5,3,5,5,4,5,5,4,4,5,3,64,Yes
+24-30,Male,S.S.C,less than 20000,Business,Married,Chattogram,No,No,Suspected,Suspected,No,No,Yes,Yes,Yes,No,No,1,2,3,4,5,2,3,5,4,4,3,4,4,3,3,4,3,57,Yes
+24-30,Male,S.S.C,less than 20000,Private,Married,Chattogram,No,No,No,No,No,No,No,No,No,No,No,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,2,4,51,Yes
+18-23,Male,H.S.C,20000-34999,Business,Single,Chattogram,No,No,Suspected,No,No,No,Yes,Yes,No,No,No,3,4,5,2,3,4,5,5,4,3,3,2,2,3,5,4,4,61,Yes
+24-30,Female,Post-graduate,less than 20000,Student,Married,Chattogram,No,No,No,No,No,No,No,Yes,No,No,No,2,2,2,3,1,1,2,2,2,2,3,5,2,3,2,2,3,39,No
+24-30,Male,Graduate,less than 20000,Private,Married,Chattogram,No,No,No,No,No,No,Yes,Yes,No,No,No,2,1,1,2,1,2,1,1,1,1,2,1,1,1,1,1,1,21,No
+24-30,Male,Graduate,more than 50000,Student,Single,Chattogram,No,Yes,No,No,No,No,Yes,Yes,No,No,No,1,1,1,2,2,1,1,1,1,1,1,1,2,1,1,1,1,20,No
+24-30,Female,Graduate,35000-50000,Private,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,No,No,No,1,5,5,5,5,5,5,5,1,1,5,1,2,5,4,1,1,57,Yes
+24-30,Female,Graduate,20000-34999,Student,Married,Chattogram,No,No,No,No,No,No,No,Yes,No,No,No,5,4,3,5,5,3,3,1,3,5,1,3,5,3,5,5,5,64,Yes
+24-30,Male,Graduate,20000-34999,Private,Single,Dhaka,No,No,No,No,No,No,Yes,Yes,No,No,No,2,2,1,1,2,2,3,1,1,1,1,5,1,2,1,1,1,28,No
+24-30,Female,Graduate,35000-50000,Student,Single,Chattogram,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,2,2,1,2,2,3,1,1,2,1,1,2,3,3,4,2,2,34,No
+24-30,Female,Graduate,20000-34999,Student,Single,Chattogram,No,No,No,No,No,No,Yes,Yes,No,No,No,2,1,1,2,2,2,1,1,1,1,1,1,1,2,2,1,2,24,No
+24-30,Female,Graduate,20000-34999,Student,Single,Chattogram,No,No,Yes,No,No,No,No,Yes,No,No,No,4,4,4,4,1,4,4,1,5,5,4,5,5,5,5,4,4,68,Yes
+24-30,Female,Graduate,less than 20000,Student,Single,Chattogram,No,Yes,Yes,No,No,No,No,Yes,No,No,No,1,1,1,2,1,1,2,1,1,1,1,1,1,1,2,1,1,20,No
+24-30,Male,Post-graduate,less than 20000,Unemployed,Single,Chattogram,No,No,No,No,No,No,Yes,No,Yes,No,No,4,2,3,2,3,3,2,3,1,5,1,5,5,5,5,3,4,56,Yes
+24-30,Female,Graduate,35000-50000,Unemployed,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,No,No,No,3,4,4,4,2,3,4,4,3,4,4,4,4,3,3,4,3,60,Yes
+18-23,Male,Graduate,35000-50000,Student,Single,Dhaka,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,4,3,4,3,3,4,3,3,3,4,4,3,3,3,3,3,4,57,Yes
+18-23,Female,Graduate,35000-50000,Student,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,Yes,No,No,2,2,2,3,2,3,2,1,1,3,3,1,2,2,3,3,2,37,No
+24-30,Male,Graduate,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,Yes,Yes,Yes,No,No,2,1,3,2,1,3,3,2,1,1,3,4,4,2,3,2,2,39,No
+18-23,Female,Graduate,less than 20000,Student,Single,Chattogram,Yes,Yes,Yes,Suspected,No,Yes,No,Yes,Yes,No,No,4,4,3,5,4,4,5,3,3,3,4,4,2,5,4,3,3,63,Yes
+more than 30,Female,Post-graduate,20000-34999,Private,Married,Chattogram,No,Yes,No,No,No,No,No,Yes,Yes,No,No,1,1,1,2,3,1,1,1,3,4,4,2,1,2,3,1,3,34,No
+24-30,Male,Graduate,20000-34999,Private,Single,Dhaka,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,3,3,3,3,2,2,2,2,2,4,2,2,3,3,5,1,3,45,Yes
+24-30,Male,Graduate,35000-50000,Govt.,Single,Dhaka,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,2,2,2,2,1,5,5,1,2,4,3,3,4,3,4,3,3,49,Yes
+24-30,Female,Graduate,20000-34999,Student,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,2,1,2,2,2,3,1,1,3,2,2,1,3,4,5,3,3,40,No
+24-30,Male,Post-graduate,less than 20000,Unemployed,Single,Chattogram,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,4,3,2,5,4,3,3,3,5,3,5,5,4,4,5,3,3,64,Yes
+24-30,Male,Graduate,35000-50000,Private,Single,Dhaka,No,No,No,No,No,No,Yes,Yes,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,No
+24-30,Female,Graduate,35000-50000,Student,Single,Chattogram,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,5,2,1,5,2,5,2,1,3,4,4,2,1,4,5,2,1,49,Yes
+18-23,Male,H.S.C,20000-34999,Student,Single,Dhaka,No,No,No,No,No,No,Yes,Yes,No,No,No,2,1,3,3,1,1,2,1,1,3,3,1,2,1,1,1,1,28,No
+18-23,Female,Graduate,less than 20000,Student,Single,Chattogram,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,34,No
+24-30,Female,Graduate,20000-34999,Student,Single,Mymensingh,No,Yes,No,No,No,Yes,No,Yes,No,No,No,3,2,4,4,1,3,3,2,4,4,4,4,3,4,4,4,3,56,Yes
+18-23,Male,Graduate,20000-34999,Govt.,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,Yes,No,No,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,49,Yes
+24-30,Male,Graduate,less than 20000,Student,Married,Dhaka,No,No,No,No,No,No,Yes,No,No,No,No,3,1,2,4,3,4,3,2,1,3,1,4,1,4,4,3,2,45,Yes
+24-30,Male,Graduate,less than 20000,Unemployed,Single,Sylhet,No,No,No,No,No,No,No,No,No,No,No,1,1,1,1,1,2,1,1,1,1,2,1,1,3,3,1,1,23,No
+18-23,Female,H.S.C,more than 50000,Student,Single,Chattogram,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,4,3,4,5,2,4,3,1,1,2,1,5,4,5,5,2,2,53,Yes
+24-30,Male,Graduate,35000-50000,Student,Single,Chattogram,No,Yes,No,No,No,No,Yes,Yes,No,No,No,2,1,2,3,2,3,1,1,1,1,1,1,1,3,2,1,2,28,No
+24-30,Male,Graduate,less than 20000,Student,Single,Dhaka,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,3,3,3,4,1,5,3,5,5,4,5,1,5,1,5,4,5,62,Yes
+24-30,Male,Graduate,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,No,No,No,No,No,2,2,3,4,3,3,2,2,2,3,2,3,1,1,2,3,2,40,No
+24-30,Female,Graduate,less than 20000,Student,Single,Chattogram,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,2,3,3,4,5,3,3,3,4,5,2,4,5,5,5,3,4,63,Yes
+24-30,Female,Graduate,35000-50000,Student,Single,Chattogram,No,No,No,No,No,No,No,No,No,No,No,1,1,1,3,1,3,3,1,1,1,1,1,1,3,2,1,1,26,No
+24-30,Male,Graduate,20000-34999,Private,Single,Chattogram,No,Suspected,No,No,No,No,Yes,Yes,No,No,No,2,2,1,2,1,2,1,2,2,3,2,1,2,3,3,1,3,33,No
+24-30,Male,Graduate,20000-34999,Student,Single,Chattogram,No,Yes,Yes,Suspected,No,No,No,Yes,No,No,No,3,2,2,5,1,2,2,1,1,3,1,1,1,5,3,2,2,37,No
+24-30,Female,Graduate,35000-50000,Student,Single,Chattogram,Yes,Yes,No,Suspected,No,No,No,Yes,No,No,No,3,2,2,3,3,2,2,2,2,1,1,2,1,3,3,3,2,37,No
+more than 30,Male,H.S.C,35000-50000,Private,Single,Chattogram,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,2,3,4,5,1,5,2,1,1,1,2,1,2,1,2,1,1,35,No
+24-30,Female,Graduate,20000-34999,Unemployed,Married,Chattogram,No,Yes,No,No,No,No,No,Yes,No,No,No,1,1,1,4,1,2,2,1,2,5,1,5,1,1,2,1,1,32,No
+24-30,Female,Graduate,more than 50000,Student,Single,Chattogram,No,Yes,No,No,No,No,No,No,No,No,No,3,1,2,2,1,2,2,2,2,2,2,1,4,2,4,2,2,36,No
+24-30,Male,Graduate,more than 50000,Unemployed,Single,Chattogram,No,Yes,Suspected,Suspected,No,No,No,Yes,No,No,No,1,1,1,2,1,2,2,1,1,1,1,1,1,2,2,1,1,22,No
+24-30,Female,H.S.C,less than 20000,Student,Single,Chattogram,Yes,Yes,No,Suspected,No,No,Yes,No,Yes,No,No,5,5,5,5,2,2,5,2,5,5,3,5,3,4,4,2,2,64,Yes
+24-30,Male,Graduate,20000-34999,Unemployed,Single,Chattogram,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,1,1,1,2,2,2,2,1,1,1,1,2,2,2,2,2,2,27,No
+24-30,Female,Graduate,35000-50000,Govt.,Married,Chattogram,No,Yes,No,No,No,No,No,Yes,No,No,No,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,3,2,37,No
+24-30,Female,Graduate,20000-34999,Unemployed,Single,Chattogram,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,3,3,3,4,5,4,4,4,5,5,5,5,5,5,5,5,5,75,Yes
+24-30,Female,Graduate,35000-50000,Student,Single,Chattogram,Yes,Yes,No,No,No,No,No,No,No,No,No,4,2,4,5,3,2,4,1,5,4,4,3,5,5,5,4,4,64,Yes
+18-23,Male,H.S.C,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,No,Yes,No,No,No,3,3,2,4,2,3,3,3,3,3,3,3,3,4,4,2,3,51,Yes
+24-30,Female,Graduate,20000-34999,Student,Single,Mymensingh,No,Suspected,No,No,No,No,No,Yes,Yes,No,No,2,1,1,4,1,4,4,2,4,3,1,5,4,4,5,2,2,49,Yes
+24-30,Female,Graduate,35000-50000,Student,Married,Chattogram,No,Yes,No,No,No,No,No,Yes,No,No,No,2,2,2,3,1,2,1,2,2,3,3,3,3,4,4,4,3,44,Yes
+18-23,Female,H.S.C,20000-34999,Private,Single,Chattogram,No,No,No,No,No,No,No,No,No,No,No,1,2,4,3,3,3,3,1,3,1,1,2,1,1,1,1,1,32,No
+18-23,Female,Graduate,35000-50000,Student,Single,Chattogram,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,5,3,3,3,5,2,4,3,5,5,4,3,4,5,5,3,4,66,Yes
+18-23,Female,H.S.C,less than 20000,Business,Single,Chattogram,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,3,4,4,4,3,3,4,3,5,3,2,4,3,4,5,3,3,60,Yes
+24-30,Female,Graduate,less than 20000,Govt.,Married,Chattogram,No,Yes,Suspected,No,No,No,No,Yes,No,No,No,2,3,3,4,4,3,2,3,4,3,4,4,3,4,4,3,4,57,Yes
+24-30,Male,Post-graduate,35000-50000,Unemployed,Single,Chattogram,No,Suspected,No,No,No,No,No,Yes,No,No,No,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,34,No
+24-30,Male,Graduate,less than 20000,Unemployed,Single,Chattogram,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,4,3,2,4,4,4,3,2,5,5,5,5,4,4,4,3,3,64,Yes
+24-30,Female,Graduate,less than 20000,Unemployed,Single,Chattogram,No,Yes,No,No,No,No,Yes,Yes,No,No,No,4,2,2,5,2,5,2,3,5,5,5,5,2,5,5,3,3,63,Yes
+24-30,Female,Graduate,less than 20000,Unemployed,Single,Chattogram,No,Yes,No,No,No,No,Yes,Yes,No,No,No,2,2,3,5,2,5,2,2,5,5,5,5,2,5,5,3,5,63,Yes
+18-23,Male,H.S.C,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,No,Yes,No,No,No,3,3,4,3,4,3,4,3,2,2,2,3,2,3,2,4,2,49,Yes
+18-23,Female,S.S.C,35000-50000,Student,Single,Dhaka,Yes,Suspected,Suspected,No,No,No,No,Yes,Yes,Yes,Yes,4,4,4,4,5,3,3,1,5,3,4,4,5,5,5,3,3,65,Yes
+18-23,Female,S.S.C,less than 20000,Student,Single,Dhaka,Yes,No,No,No,No,No,No,No,No,No,No,4,3,2,5,3,2,5,3,5,5,3,4,2,5,4,1,5,61,Yes
+18-23,Male,S.S.C,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,Yes,Yes,No,No,No,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,31,No
+18-23,Male,H.S.C,35000-50000,Unemployed,Single,Dhaka,No,No,No,No,No,No,No,Yes,No,No,No,1,1,1,2,1,2,1,2,2,1,1,1,1,1,1,1,2,22,No
+18-23,Male,S.S.C,less than 20000,Student,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,Yes,No,No,1,1,1,3,1,3,1,1,1,1,1,1,1,1,1,3,1,23,No
+18-23,Female,H.S.C,less than 20000,Student,Single,Dhaka,No,Yes,Yes,No,No,No,No,Yes,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,No
+18-23,Female,Graduate,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,No,No,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,No
+18-23,Female,Graduate,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,No,Yes,No,No,No,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,19,No
+more than 30,Female,Graduate,more than 50000,Govt.,Married,Rangpur,No,No,No,No,No,No,Yes,Yes,No,Yes,No,3,2,3,3,2,2,2,2,2,3,2,2,2,3,3,2,2,40,No
+24-30,Female,H.S.C,less than 20000,Unemployed,Married,Chattogram,No,No,No,No,No,Yes,No,Yes,No,No,No,3,2,1,3,3,3,3,3,3,5,5,5,5,5,5,5,5,64,Yes
+24-30,Male,Graduate,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,No,No,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,No
+24-30,Male,Graduate,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,No,No,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,No
+18-23,Female,H.S.C,less than 20000,Student,Single,Dhaka,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,2,20,No
+18-23,Male,Graduate,20000-34999,Private,Single,Chattogram,No,Yes,No,No,No,No,Yes,Yes,No,No,No,2,3,1,2,3,1,3,5,2,1,2,3,3,2,2,3,3,41,No
+24-30,Male,Post-graduate,20000-34999,Student,Single,Chattogram,No,Yes,No,No,No,No,Yes,Yes,No,No,No,2,3,2,5,1,4,3,2,5,3,5,1,3,2,3,5,2,51,Yes
+18-23,Female,H.S.C,35000-50000,Student,Single,Dhaka,Yes,Yes,Yes,No,No,No,No,No,No,No,No,1,1,1,2,1,1,2,1,1,1,2,1,4,4,1,2,2,28,No
+18-23,Female,H.S.C,35000-50000,Student,Single,Dhaka,Yes,Yes,Yes,No,No,No,No,No,No,No,No,1,1,2,2,1,1,2,1,1,1,2,1,4,4,1,2,2,29,No
+18-23,Male,S.S.C,less than 20000,Student,Single,Dhaka,No,No,No,No,No,No,Yes,Yes,No,No,No,1,2,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,22,No
+18-23,Female,H.S.C,35000-50000,Student,Single,Dhaka,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,1,1,2,2,1,1,2,1,1,1,2,1,4,4,1,2,2,29,No
+24-30,Male,Graduate,less than 20000,Private,Single,Dhaka,No,No,No,No,No,No,Yes,No,Yes,No,No,1,3,1,2,1,2,3,1,1,1,1,1,1,1,1,3,1,25,No
+18-23,Female,Graduate,less than 20000,Private,Single,Chattogram,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,4,3,4,3,1,1,1,1,2,1,2,1,2,3,1,2,2,34,No
+24-30,Male,Graduate,35000-50000,Business,Single,Dhaka,Yes,No,No,No,No,No,Yes,Yes,No,No,No,3,2,2,2,1,2,1,1,1,1,1,2,1,3,1,2,2,28,No
+24-30,Male,Post-graduate,35000-50000,Student,Single,Sylhet,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,4,1,4,5,1,3,5,1,4,5,1,1,1,2,5,5,4,52,Yes
+18-23,Male,H.S.C,less than 20000,Private,Single,Chattogram,No,No,No,No,No,No,No,No,No,No,No,1,1,2,2,2,1,1,1,2,1,1,2,1,1,2,1,1,23,No
+24-30,Male,H.S.C,less than 20000,Private,Single,Chattogram,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,3,1,4,3,2,2,3,1,4,4,4,3,3,4,3,3,3,50,Yes
+18-23,Female,S.S.C,less than 20000,Student,Single,Dhaka,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,No
+18-23,Male,H.S.C,less than 20000,Private,Single,Rajshahi,No,No,No,No,No,No,Yes,Yes,No,No,No,1,2,3,2,2,3,2,4,1,2,1,1,1,2,1,1,2,31,No
+more than 30,Male,Post-graduate,20000-34999,Private,Single,Dhaka,No,Suspected,Yes,No,No,No,Yes,Yes,No,No,No,2,2,1,1,1,1,1,1,1,1,2,1,1,2,1,1,1,21,No
+24-30,Male,S.S.C,less than 20000,Private,Single,Dhaka,No,No,No,No,No,No,Yes,Yes,No,No,No,1,1,2,3,1,2,1,1,1,1,1,1,1,3,1,2,1,24,No
+24-30,Female,Graduate,less than 20000,Student,Single,Chattogram,Yes,Yes,Suspected,Suspected,No,Yes,Yes,Yes,Yes,No,No,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,48,Yes
+24-30,Female,Post-graduate,less than 20000,Unemployed,Married,Chattogram,No,No,No,No,No,No,No,Yes,Yes,No,No,1,1,1,4,2,1,2,1,1,2,2,1,1,1,1,1,2,25,No
+24-30,Male,Post-graduate,20000-34999,Unemployed,Single,Chattogram,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,49,Yes
+24-30,Male,Post-graduate,less than 20000,Govt.,Married,Chattogram,No,Yes,Suspected,No,No,No,Yes,Yes,Yes,No,No,1,2,2,1,2,1,2,1,1,1,1,1,2,3,3,3,3,30,No
+18-23,Male,Graduate,35000-50000,Student,Single,Dhaka,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,3,2,3,5,2,3,3,2,5,4,5,5,2,3,4,3,4,58,Yes
+24-30,Female,Post-graduate,20000-34999,Unemployed,Married,Chattogram,No,Yes,No,No,No,No,No,Yes,Yes,No,No,1,1,1,1,1,3,1,2,1,1,1,1,1,2,1,1,1,21,No
+18-23,Male,S.S.C,less than 20000,Student,Single,Chattogram,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,No
+more than 30,Male,S.S.C,less than 20000,Unemployed,Married,Dhaka,No,No,No,No,No,No,Yes,Yes,No,No,No,2,2,2,2,3,2,2,2,3,2,2,2,3,2,2,3,2,38,No
+18-23,Male,H.S.C,less than 20000,Student,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,No,No,No,2,2,3,4,4,5,4,5,4,4,3,4,4,4,4,4,2,62,Yes
+18-23,Female,H.S.C,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,Yes,Yes,No,No,No,3,2,2,5,2,3,4,2,3,5,5,5,2,3,5,3,3,57,Yes
+18-23,Male,Graduate,less than 20000,Student,Single,Chattogram,No,Yes,No,No,No,No,Yes,Yes,No,No,No,2,2,2,3,3,2,2,2,2,2,2,5,3,3,3,3,3,44,Yes
+24-30,Female,Graduate,35000-50000,Student,Single,Chattogram,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,5,5,4,5,5,4,4,1,4,1,4,5,2,4,4,3,3,63,Yes
+24-30,Male,Post-graduate,less than 20000,Govt.,Single,Chattogram,No,No,No,Yes,No,No,Yes,Yes,No,No,No,2,2,2,2,2,4,2,3,2,3,3,3,3,3,4,3,4,47,Yes
+18-23,Female,H.S.C,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,No,No,No,No,No,2,1,1,4,1,1,1,1,1,1,1,1,1,1,1,2,1,22,No
+18-23,Male,H.S.C,less than 20000,Unemployed,Single,Chattogram,No,No,No,No,No,No,No,Yes,No,No,No,3,1,1,4,3,3,1,1,4,3,2,4,4,4,5,3,1,47,Yes
+18-23,Female,H.S.C,20000-34999,Private,Single,Chattogram,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,2,1,1,2,2,3,1,1,2,2,2,1,2,1,2,2,1,28,No
+18-23,Male,Graduate,less than 20000,Student,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,Yes,No,No,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,18,No
+18-23,Male,S.S.C,20000-34999,Student,Single,Chattogram,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,1,2,3,4,4,1,2,3,4,3,1,4,4,4,4,5,2,51,Yes
+18-23,Male,H.S.C,20000-34999,Private,Single,Dhaka,No,Yes,No,Suspected,No,No,No,Yes,Yes,No,No,3,3,2,4,1,5,3,1,3,2,4,3,3,4,2,1,2,46,Yes
+18-23,Male,H.S.C,20000-34999,Student,Single,Dhaka,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,3,2,1,2,2,2,1,1,1,2,1,1,1,2,4,3,1,30,No
+18-23,Female,H.S.C,less than 20000,Student,Single,Dhaka,No,Yes,Yes,No,No,No,No,Yes,No,No,No,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,19,No
+18-23,Male,S.S.C,more than 50000,Student,Single,Khulna,No,Yes,No,No,No,No,No,Yes,Yes,No,No,2,4,2,5,3,3,4,3,1,4,3,5,4,2,3,3,4,55,Yes
+18-23,Male,S.S.C,35000-50000,Govt.,Single,Khulna,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,1,1,1,3,3,3,2,2,2,2,2,2,5,2,1,2,1,35,No
+18-23,Male,H.S.C,35000-50000,Student,Single,Chattogram,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,5,5,5,5,3,1,5,1,5,5,5,5,5,5,5,5,5,75,Yes
+18-23,Male,H.S.C,20000-34999,Private,Single,Rajshahi,Yes,No,No,No,No,No,Yes,Yes,No,No,No,1,1,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,19,No
+18-23,Male,S.S.C,less than 20000,Student,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,No,No,No,4,5,5,5,5,2,4,2,5,5,5,5,1,5,5,3,5,71,Yes
+18-23,Male,H.S.C,20000-34999,Student,Single,Chattogram,No,Yes,No,No,No,No,No,No,No,No,No,2,1,1,1,1,2,1,1,1,5,5,5,2,1,5,1,1,36,No
+18-23,Male,H.S.C,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,No,No,No,No,No,2,1,1,1,1,1,1,1,3,2,1,1,1,1,2,1,1,22,No
+more than 30,Female,Post-graduate,35000-50000,Unemployed,Married,Dhaka,No,No,No,No,No,No,No,No,No,No,No,3,3,2,4,2,3,1,1,1,1,4,1,4,2,2,2,3,39,No
+more than 30,Female,Post-graduate,35000-50000,Private,Married,Dhaka,No,No,No,No,No,No,Yes,Yes,Yes,No,No,1,2,1,3,3,2,2,2,2,1,1,1,1,1,1,1,1,26,No
+18-23,Female,Graduate,less than 20000,Student,Single,Chattogram,Yes,Suspected,No,No,No,No,No,Yes,No,No,No,2,1,1,3,2,3,2,1,2,2,2,3,2,2,3,3,2,36,No
+more than 30,Male,Post-graduate,more than 50000,Private,Married,Chattogram,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,3,2,4,4,3,3,4,3,3,3,4,5,5,5,5,4,4,64,Yes
+24-30,Male,Graduate,35000-50000,Business,Single,Dhaka,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,3,2,3,2,3,1,2,3,3,4,1,1,3,4,3,4,3,45,Yes
+24-30,Female,Graduate,more than 50000,Student,Married,Dhaka,Yes,No,No,No,No,No,No,Yes,No,No,No,3,2,2,2,2,3,2,3,2,2,2,3,2,4,2,3,3,42,No
+24-30,Female,Post-graduate,20000-34999,Unemployed,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,No,No,No,3,2,2,5,3,5,4,1,5,5,5,4,5,4,4,3,5,65,Yes
+24-30,Male,Post-graduate,35000-50000,Student,Single,Chattogram,No,Yes,No,No,No,Yes,No,Yes,No,No,No,2,2,2,2,3,2,2,2,2,2,2,2,2,2,1,2,2,34,No
+24-30,Male,H.S.C,20000-34999,Private,Single,Chattogram,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,1,1,1,3,2,2,1,1,1,1,3,1,3,1,3,2,1,28,No
+18-23,Male,H.S.C,less than 20000,Student,Single,Chattogram,No,No,No,No,No,No,Yes,Yes,No,No,No,3,4,4,3,4,3,3,2,4,4,3,4,3,4,3,3,2,56,Yes
+24-30,Male,H.S.C,more than 50000,Student,Single,Dhaka,No,No,No,No,No,No,Yes,Yes,No,Yes,No,3,2,3,4,2,1,3,1,4,5,5,5,1,5,1,5,5,55,Yes
+24-30,Male,Graduate,20000-34999,Private,Single,Chattogram,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,1,1,2,4,1,3,5,1,1,1,5,4,1,5,4,3,5,47,Yes
+24-30,Male,Graduate,more than 50000,Student,Single,Dhaka,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,3,1,1,1,1,3,3,3,1,3,1,1,1,1,3,1,1,29,No
+18-23,Male,H.S.C,20000-34999,Private,Single,Chattogram,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,1,1,3,1,5,4,5,2,5,5,5,5,5,5,5,5,5,67,Yes
+24-30,Male,Post-graduate,20000-34999,Private,Married,Chattogram,No,Yes,Yes,Suspected,No,No,Yes,Yes,Yes,No,No,2,1,1,2,1,4,1,4,1,2,1,1,1,1,1,1,1,26,No
+more than 30,Male,Post-graduate,20000-34999,Private,Single,Chattogram,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,2,2,3,3,2,2,3,2,4,5,3,5,5,5,5,5,5,61,Yes
+24-30,Male,Post-graduate,less than 20000,Unemployed,Single,Dhaka,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,2,3,1,1,2,1,1,2,1,1,4,1,1,3,3,2,3,32,No
+24-30,Male,Post-graduate,20000-34999,Student,Single,Chattogram,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,4,3,2,3,2,2,3,3,4,3,3,3,4,5,5,4,5,58,Yes
+24-30,Female,Graduate,35000-50000,Student,Single,Dhaka,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,2,2,3,3,1,4,1,1,1,2,2,2,3,3,2,1,1,34,No
+24-30,Female,Graduate,less than 20000,Private,Single,Chattogram,No,Yes,No,No,No,No,Yes,No,No,No,No,5,3,2,5,4,5,5,2,3,3,5,5,2,4,4,5,3,65,Yes
+24-30,Male,S.S.C,20000-34999,Business,Single,Chattogram,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1,1,1,2,2,1,1,1,1,5,5,1,1,2,5,2,2,34,No
+18-23,Male,H.S.C,20000-34999,Student,Single,Chattogram,No,Yes,No,No,No,No,Yes,Yes,No,No,No,2,1,2,2,1,3,3,1,1,1,1,1,3,2,3,4,1,32,No
+18-23,Male,H.S.C,20000-34999,Private,Single,Chattogram,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,1,1,1,2,2,2,1,2,3,1,1,1,3,1,2,3,1,28,No
+24-30,Female,Graduate,more than 50000,Business,Single,Chattogram,Yes,Yes,No,No,No,No,No,Yes,No,No,No,2,2,3,2,2,5,2,1,1,1,2,2,3,3,3,3,3,40,No
+18-23,Female,S.S.C,less than 20000,Student,Single,Dhaka,No,No,No,No,No,No,No,No,No,No,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,No
+18-23,Female,S.S.C,less than 20000,Student,Single,Dhaka,No,Yes,No,No,No,No,No,Yes,No,No,No,1,1,4,5,1,1,1,1,4,2,1,1,1,2,5,1,1,33,No
+24-30,Male,Graduate,20000-34999,Student,Single,Dhaka,Yes,Yes,No,Suspected,No,No,No,Yes,No,No,No,3,1,1,3,3,2,2,2,1,1,1,1,2,2,2,2,2,31,No
+24-30,Female,Graduate,35000-50000,Student,Single,Chattogram,No,Yes,No,No,No,No,No,Yes,Yes,No,No,1,1,1,3,3,2,2,1,3,3,2,3,3,4,2,2,2,38,No
